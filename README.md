@@ -48,3 +48,13 @@ File: `Python/stats.py`
 ```bash
 gcc stats.c -o stats
 ./stats
+```
+## OCaml
+```bash
+ocamlc stats.ml -o stats
+./stats
+```
+## Python
+```bash
+python3 stats.py
+```
